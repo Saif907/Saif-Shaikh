@@ -30,9 +30,9 @@ I'm a driven **data analyst and AI practitioner** currently pursuing my studies 
 
 | Project | Summary | Tech Stack |
 |--------|---------|------------|
-| [📦 Inventory & Vendor Performance](https://github.com/Saif907/Vendor-perfromance-analysis) | Full analytics pipeline to monitor inventory levels, vendor efficiency & KPIs | Python, SQL, Pandas, Power BI |
+| [📦 Inventory & Vendor Performance](https://github.com/Saif907/Vendor-Perfromance-Analysis) | Full analytics pipeline to monitor inventory levels, vendor efficiency & KPIs | Python, SQL, Pandas, Power BI |
 | [🎨 Neural Style Transfer Transformer](https://github.com/Saif907/Neural-Style-Transfer) | Lightweight style transfer model using Transformer & VGG perceptual loss | PyTorch, CNNs, Transformer |
-| [🏦 Loan Risk Profiling](https://github.com/Saif907/loan-risk-analysis) | Exploratory & predictive analysis to segment borrowers based on risk | Python, Clustering, EDA |
+| [🏦 Loan Risk Profiling](https://github.com/Saif907/Loan-risk-analysis) | Exploratory & predictive analysis to segment borrowers based on risk | Python, Clustering, EDA |
 
 ---
 
