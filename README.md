@@ -39,8 +39,8 @@ I'm a driven **data analyst and AI practitioner** currently pursuing my studies 
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saif907&show_icons=true&theme=default" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saif907&theme=default" height="180"/>
 </p>
 
 ---
